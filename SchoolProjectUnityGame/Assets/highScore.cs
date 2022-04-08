@@ -12,15 +12,20 @@ public class highScore : MonoBehaviour
 
     //Vul hier onder het script aan
 
-    void Start()
+    public void PostScore()
     {
+        StartCoroutine(GetRequest("https://87602.ict-lab.nl/PlatformerUnityLeaderboard/displayScore.php"));
+
         StartCoroutine(Upload());
     }
+
+
 
     IEnumerator Upload()
     {
         WWWForm form = new WWWForm();
-        form.AddField("name", "score");
+        form.AddField("name", "duran");
+        form.AddField("score", highscore);
 
         using (UnityWebRequest www = UnityWebRequest.Post("https://87602.ict-lab.nl/PlatformerUnityLeaderboard/addscore.php", form))
         {

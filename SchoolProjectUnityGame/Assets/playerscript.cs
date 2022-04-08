@@ -17,7 +17,7 @@ public class playerscript : MonoBehaviour
     public highScore highscoreOBj;
 
     // Start is called before the first frame update
-    void PostScore()
+    void start()
     {
         
     }
@@ -54,7 +54,7 @@ public class playerscript : MonoBehaviour
                 //In de highscore class variabelen aanpassen zodat de score wordt meegegeven en de verstuur score functie uitvoeren
                 highscoreOBj.highscore = score + (int)counterdownTimer;
                 highscoreOBj.PostScore();
-                //error Assets/playerscript.cs(56,30): error CS1061: 'highScore' does not contain a definition for 'PostScore' and no accessible extension method 'PostScore' accepting a first argument of type 'highScore' could be found (are you missing a using directive or an assembly reference?)
+                //error highScore.PostScore()' is inaccessible due to its protection level
 
             }
 
