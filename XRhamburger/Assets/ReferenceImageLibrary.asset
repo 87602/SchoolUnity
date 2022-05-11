@@ -25,3 +25,13 @@ MonoBehaviour:
     m_SpecifySize: 0
     m_Name: hamburger
     m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 5066049231131238477
+      m_GuidHigh: 10145047793324249475
+    m_SerializedTextureGuid:
+      m_GuidLow: 10698211787314287580
+      m_GuidHigh: 4151633156685354281
+    m_Size: {x: 0, y: 0}
+    m_SpecifySize: 0
+    m_Name: Hamburger
+    m_Texture: {fileID: 0}
