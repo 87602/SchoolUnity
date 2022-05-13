@@ -32,7 +32,7 @@ public class ImageTracking : MonoBehaviour
         }
     }
 
-    private void OnTrackedImagesChanged()
+    private void OnTrackedImagesChanged(ARTrackedImagesChangedEventArgs e)
     {
         foreach (var trackedImage in e.added)
         {
@@ -50,6 +50,12 @@ public class ImageTracking : MonoBehaviour
         if (trackedImage == null)
         {
             return;
+        }
+
+        if (trackedImage.trackingState != TrackingState.None)
+        {
+            var trackedImageTransform = trackedImage.transform;
+            transform.SetPositionAndRotation(trackedImageTransform.position, trackedImageTransform.rotation);
         }
     }
 
