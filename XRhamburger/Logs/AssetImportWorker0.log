@@ -487,3 +487,188 @@ AssetImportParameters requested are different than current active one (requested
   custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
   custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
   custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  Time since last request: 582.727449 seconds.
+  path: Assets/ReferenceImageLibrary.asset
+  artifactKey: Guid(8a6ee71f32186470ba65b6ef66bf7705) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ReferenceImageLibrary.asset using Guid(8a6ee71f32186470ba65b6ef66bf7705) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '856fea5d8a14dbd2c66f8bddb47ebffa') in 0.013876 seconds 
+  Import took 0.018828 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1327.300604 seconds.
+  path: Assets/SlaBurger.jpg
+  artifactKey: Guid(62c3d3dcaef0947729d5f6155c909d39) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SlaBurger.jpg using Guid(62c3d3dcaef0947729d5f6155c909d39) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c49c0853538adb13c0e053f361b75f75') in 0.019458 seconds 
+  Import took 0.023525 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 32.973776 seconds.
+  path: Assets/CheeseBurger.jpg
+  artifactKey: Guid(924a51fe6c96c4553ba669925c327b47) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/CheeseBurger.jpg using Guid(924a51fe6c96c4553ba669925c327b47) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00779c569c9a0217aaa85047ee0dbbd2') in 0.016681 seconds 
+  Import took 0.020650 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000343 seconds.
+  path: Assets/Hamburger.jpg
+  artifactKey: Guid(42f1a82aff8344a56974e9b308e55b2a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Hamburger.jpg using Guid(42f1a82aff8344a56974e9b308e55b2a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ff7eee27bb694d3ee7a88439cc0cd93a') in 0.010254 seconds 
+  Import took 0.015083 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 9.928796 seconds.
+  path: Assets/referance
+  artifactKey: Guid(ed0722d074aec4167ad22b87382cc012) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/referance using Guid(ed0722d074aec4167ad22b87382cc012) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8401b2776bbb9b67d38a16211b387320') in 0.003772 seconds 
+  Import took 0.007250 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 35.335997 seconds.
+  path: Assets/referance/ReferenceImageLibrary.asset
+  artifactKey: Guid(8a6ee71f32186470ba65b6ef66bf7705) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/referance/ReferenceImageLibrary.asset using Guid(8a6ee71f32186470ba65b6ef66bf7705) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b97dc16ac40d3a072bd194a0c3aca122') in 0.009758 seconds 
+  Import took 0.014949 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 18.960624 seconds.
+  path: Assets/referance/ReferenceImageLibrary.asset
+  artifactKey: Guid(8a6ee71f32186470ba65b6ef66bf7705) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/referance/ReferenceImageLibrary.asset using Guid(8a6ee71f32186470ba65b6ef66bf7705) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd4a5666baea89b2cc10d5a491ead85d5') in 0.010729 seconds 
+  Import took 0.015469 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 86.731223 seconds.
+  path: Assets/MysteryBurger.jpg
+  artifactKey: Guid(67211c24c7fe34b5d801e4c3312a038b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MysteryBurger.jpg using Guid(67211c24c7fe34b5d801e4c3312a038b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e6db76bc5c46a17d7e061c8364438898') in 0.042846 seconds 
+  Import took 0.046350 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 17.638714 seconds.
+  path: Assets/referance/ReferenceImageLibrary.asset
+  artifactKey: Guid(8a6ee71f32186470ba65b6ef66bf7705) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/referance/ReferenceImageLibrary.asset using Guid(8a6ee71f32186470ba65b6ef66bf7705) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ff43160ea310729fe0898f3c7ed46a3a') in 0.010244 seconds 
+  Import took 0.014855 seconds .
+
+========================================================================
+Received Prepare
+Refreshing native plugins compatible for Editor in 6.29 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 12 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 151.7 MB.
+System memory in use after: 151.8 MB.
+
+Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 2594.
+Total: 2.858139 ms (FindLiveObjects: 0.397140 ms CreateObjectMapping: 0.137857 ms MarkObjects: 2.305666 ms  DeleteObjects: 0.016647 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:framework-osx-AVFoundation: e770b220cccbd017edd2c1fefb359320 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Prepare
+Refreshing native plugins compatible for Editor in 2.26 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 12 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 151.9 MB.
+System memory in use after: 152.0 MB.
+
+Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 2594.
+Total: 2.321875 ms (FindLiveObjects: 0.213790 ms CreateObjectMapping: 0.084134 ms MarkObjects: 2.010789 ms  DeleteObjects: 0.012494 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:framework-osx-AVFoundation: e770b220cccbd017edd2c1fefb359320 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Prepare
+Refreshing native plugins compatible for Editor in 2.25 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 12 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 151.9 MB.
+System memory in use after: 152.1 MB.
+
+Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 2594.
+Total: 2.466554 ms (FindLiveObjects: 0.221012 ms CreateObjectMapping: 0.083133 ms MarkObjects: 2.147354 ms  DeleteObjects: 0.014368 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:framework-osx-AVFoundation: e770b220cccbd017edd2c1fefb359320 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Prepare
+Refreshing native plugins compatible for Editor in 2.16 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 12 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 152.1 MB.
+System memory in use after: 152.2 MB.
+
+Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 2594.
+Total: 2.900158 ms (FindLiveObjects: 0.211972 ms CreateObjectMapping: 0.086035 ms MarkObjects: 2.584677 ms  DeleteObjects: 0.016581 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:framework-osx-AVFoundation: e770b220cccbd017edd2c1fefb359320 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Prepare
+Refreshing native plugins compatible for Editor in 2.71 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 12 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 152.3 MB.
+System memory in use after: 152.4 MB.
+
+Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 2594.
+Total: 2.641900 ms (FindLiveObjects: 0.221902 ms CreateObjectMapping: 0.083756 ms MarkObjects: 2.321804 ms  DeleteObjects: 0.013883 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:framework-osx-AVFoundation: e770b220cccbd017edd2c1fefb359320 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  Time since last request: 1487.855223 seconds.
+  path: Assets/SlaBurger.jpg
+  artifactKey: Guid(fe0176f39a18f4b62b580a3be621acef) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SlaBurger.jpg using Guid(fe0176f39a18f4b62b580a3be621acef) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f24dc7b988d9e79e82c6fdba9decac56') in 0.015946 seconds 
+  Import took 0.020466 seconds .
+

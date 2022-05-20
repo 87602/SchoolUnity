@@ -19,19 +19,39 @@ MonoBehaviour:
       m_GuidLow: 5061121925144641155
       m_GuidHigh: 12921941509354730407
     m_SerializedTextureGuid:
-      m_GuidLow: 10698211787314287580
-      m_GuidHigh: 4151633156685354281
+      m_GuidLow: 4946640704965290026
+      m_GuidHigh: 3052284998014563433
     m_Size: {x: 0, y: 0}
     m_SpecifySize: 0
-    m_Name: hamburger
+    m_Name: Hamburger
     m_Texture: {fileID: 0}
   - m_SerializedGuid:
-      m_GuidLow: 5066049231131238477
-      m_GuidHigh: 10145047793324249475
+      m_GuidLow: 5445119124874174772
+      m_GuidHigh: 4206628168952743312
+    m_SerializedTextureGuid:
+      m_GuidLow: 14147333198409519614
+      m_GuidHigh: 5150765972003071547
+    m_Size: {x: 0, y: 0}
+    m_SpecifySize: 0
+    m_Name: CheeseBurger
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 5145360677069823283
+      m_GuidHigh: 1478314883865111998
     m_SerializedTextureGuid:
       m_GuidLow: 10698211787314287580
       m_GuidHigh: 4151633156685354281
     m_Size: {x: 0, y: 0}
     m_SpecifySize: 0
-    m_Name: Hamburger
+    m_Name: SlaBurger
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 5430498163952200678
+      m_GuidHigh: 1348210752978832265
+    m_SerializedTextureGuid:
+      m_GuidLow: 3798161756222725156
+      m_GuidHigh: 10016896389430378968
+    m_Size: {x: 0, y: 0}
+    m_SpecifySize: 0
+    m_Name: MysteryBurger
     m_Texture: {fileID: 0}
