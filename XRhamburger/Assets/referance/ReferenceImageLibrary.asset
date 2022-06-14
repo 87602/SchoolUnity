@@ -14,6 +14,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   m_GuidLow: 5266804924192615418
   m_GuidHigh: 11054376489152017315
+  m_DataStore:
+    m_Storage: []
   m_Images:
   - m_SerializedGuid:
       m_GuidLow: 5061121925144641155
@@ -33,17 +35,17 @@ MonoBehaviour:
       m_GuidHigh: 5150765972003071547
     m_Size: {x: 0, y: 0}
     m_SpecifySize: 0
-    m_Name: CheeseBurger
+    m_Name: Cheeseburger
     m_Texture: {fileID: 0}
   - m_SerializedGuid:
       m_GuidLow: 5145360677069823283
       m_GuidHigh: 1478314883865111998
     m_SerializedTextureGuid:
-      m_GuidLow: 10698211787314287580
-      m_GuidHigh: 4151633156685354281
+      m_GuidLow: 17633450823147157235
+      m_GuidHigh: 17270215943775737899
     m_Size: {x: 0, y: 0}
     m_SpecifySize: 0
-    m_Name: SlaBurger
+    m_Name: Slaburger
     m_Texture: {fileID: 0}
   - m_SerializedGuid:
       m_GuidLow: 5430498163952200678
@@ -53,5 +55,5 @@ MonoBehaviour:
       m_GuidHigh: 10016896389430378968
     m_Size: {x: 0, y: 0}
     m_SpecifySize: 0
-    m_Name: MysteryBurger
+    m_Name: Mysteryburger
     m_Texture: {fileID: 0}
